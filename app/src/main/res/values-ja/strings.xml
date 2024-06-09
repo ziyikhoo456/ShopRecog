@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShopRecog</string>
+    <string name="API_KEY">AIzaSyC1n_2xoJGwMsbKK43o-hYAnGdbEjpZq1w</string>
+    <string name="loading">読み込み中...</string>
+    <string name="error">エラーが発生しました</string>
+    <string name="capturing">写真を撮影中</string>
+    <string name="capture_success">写真撮影が成功しました</string>
+    <string name="no_shop">"店舗が検出されません。ダブルタップで戻る"</string>
+    <string name="shop_info">店舗情報</string>
+    <string name="start">お願いします</string>
+    <string name="emptySpeech">音声が検出されません</string>
+</resources>

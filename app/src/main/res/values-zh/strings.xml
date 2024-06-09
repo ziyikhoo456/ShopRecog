@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShopRecog</string>
+    <string name="API_KEY">AIzaSyC1n_2xoJGwMsbKK43o-hYAnGdbEjpZq1w</string>
+    <string name="loading">加载中...</string>
+    <string name="error">发生错误</string>
+    <string name="capturing">拍摄照片中</string>
+    <string name="capture_success">照片拍摄成功</string>
+    <string name="no_shop">未检测到店铺。双击返回。</string>
+    <string name="shop_info">商店信息</string>
+    <string name="start">请说</string>
+    <string name="emptySpeech">没有检测到语音</string>
+</resources>

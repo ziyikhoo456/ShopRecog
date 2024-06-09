@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShopRecog</string>
+    <string name="API_KEY">AIzaSyC1n_2xoJGwMsbKK43o-hYAnGdbEjpZq1w</string>
+    <string name="loading">로딩 중...</string>
+    <string name="error">오류가 발생했습니다</string>
+    <string name="capturing">사진 촬영 중</string>
+    <string name="capture_success">사진 촬영 성공</string>
+    <string name="no_shop">"상점이 감지되지 않았습니다. 더블 탭하여 되돌아가기."</string>
+    <string name="shop_info">상점 정보</string>
+    <string name="start">말해주세요</string>
+    <string name="emptySpeech">음성이 감지되지 않습니다</string>
+</resources>

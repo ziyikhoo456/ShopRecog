@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShopRecog</string>
+    <string name="API_KEY">AIzaSyC1n_2xoJGwMsbKK43o-hYAnGdbEjpZq1w</string>
+    <string name="loading">Loading…</string>
+    <string name="error">An error occurs</string>
+    <string name="capturing">Capturing the photo</string>
+    <string name="capture_success">Photo capture successfully</string>
+    <string name="no_shop">"No shop is detected. Double tap to return."</string>
+    <string name="shop_info">Shop Information</string>
+    <string name="start">Please speak</string>
+    <string name="emptySpeech">No speech is detected</string>
+
+</resources>
